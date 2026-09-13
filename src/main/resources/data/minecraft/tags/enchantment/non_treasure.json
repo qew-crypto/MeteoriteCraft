@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "meteoritecraft:meteor_strike",
+    "meteoritecraft:cosmic_guard",
+    "meteoritecraft:gravity_well",
+    "meteoritecraft:star_vein",
+    "meteoritecraft:void_step",
+    "meteoritecraft:starforged"
+  ]
+}

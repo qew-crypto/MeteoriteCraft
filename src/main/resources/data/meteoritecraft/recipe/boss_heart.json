@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "SCS",
+    "CHC",
+    "SCS"
+  ],
+  "key": {
+    "S": "meteoritecraft:star_fragment",
+    "C": "meteoritecraft:meteor_core",
+    "H": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "meteoritecraft:boss_heart",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "meteoritecraft:block/charged_meteorite_block"
+  }
+}

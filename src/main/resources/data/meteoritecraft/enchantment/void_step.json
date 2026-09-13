@@ -1,0 +1,44 @@
+{
+  "description": {
+    "translate": "enchantment.meteoritecraft.void_step"
+  },
+  "supported_items": "#minecraft:enchantable/foot_armor",
+  "weight": 4,
+  "max_level": 3,
+  "min_cost": {
+    "base": 8,
+    "per_level_above_first": 8
+  },
+  "max_cost": {
+    "base": 40,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "feet"
+  ],
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "id": "meteoritecraft:void_step_speed",
+        "attribute": "minecraft:movement_speed",
+        "amount": {
+          "type": "minecraft:linear",
+          "base": 0.04,
+          "per_level_above_first": 0.03
+        },
+        "operation": "add_value"
+      },
+      {
+        "id": "meteoritecraft:void_step_jump",
+        "attribute": "minecraft:jump_strength",
+        "amount": {
+          "type": "minecraft:linear",
+          "base": 0.05,
+          "per_level_above_first": 0.05
+        },
+        "operation": "add_value"
+      }
+    ]
+  }
+}

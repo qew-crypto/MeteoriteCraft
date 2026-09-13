@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "meteoritecraft:cosmic_dust",
+    "meteoritecraft:star_fragment",
+    "minecraft:ghast_tear"
+  ],
+  "result": {
+    "id": "meteoritecraft:cosmic_elixir",
+    "count": 2
+  }
+}

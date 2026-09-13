@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "meteoritecraft:meteor_shard",
+    "meteoritecraft:meteor_shard",
+    "meteoritecraft:meteor_shard",
+    "meteoritecraft:meteor_shard",
+    "meteoritecraft:meteor_shard",
+    "meteoritecraft:meteor_shard",
+    "meteoritecraft:meteor_shard",
+    "meteoritecraft:meteor_shard",
+    "meteoritecraft:meteor_shard"
+  ],
+  "result": {
+    "id": "meteoritecraft:meteor_ingot",
+    "count": 1
+  }
+}

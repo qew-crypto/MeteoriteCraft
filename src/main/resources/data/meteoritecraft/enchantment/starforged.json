@@ -1,0 +1,34 @@
+{
+  "description": {
+    "translate": "enchantment.meteoritecraft.starforged"
+  },
+  "supported_items": "#minecraft:enchantable/durability",
+  "weight": 3,
+  "max_level": 3,
+  "min_cost": {
+    "base": 12,
+    "per_level_above_first": 12
+  },
+  "max_cost": {
+    "base": 60,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 5,
+  "slots": [
+    "any"
+  ],
+  "effects": {
+    "minecraft:item_damage": [
+      {
+        "effect": {
+          "type": "minecraft:multiply",
+          "factor": {
+            "type": "minecraft:linear",
+            "base": 0.5,
+            "per_level_above_first": -0.15
+          }
+        }
+      }
+    ]
+  }
+}

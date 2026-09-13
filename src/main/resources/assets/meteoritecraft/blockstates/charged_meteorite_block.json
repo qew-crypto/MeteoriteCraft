@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "meteoritecraft:block/charged_meteorite_block"
+    }
+  }
+}

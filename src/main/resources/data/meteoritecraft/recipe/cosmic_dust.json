@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "meteoritecraft:meteor_shard",
+    "minecraft:glowstone_dust"
+  ],
+  "result": {
+    "id": "meteoritecraft:cosmic_dust",
+    "count": 2
+  }
+}

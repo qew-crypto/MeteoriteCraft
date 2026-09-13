@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " D ",
+    "DCD",
+    " D "
+  ],
+  "key": {
+    "D": "minecraft:diamond_block",
+    "C": "minecraft:compass"
+  },
+  "result": {
+    "id": "meteoritecraft:meteor_locator",
+    "count": 1
+  }
+}

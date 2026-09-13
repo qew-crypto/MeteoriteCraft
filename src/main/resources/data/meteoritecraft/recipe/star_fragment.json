@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "meteoritecraft:meteor_shard",
+    "meteoritecraft:meteor_shard",
+    "minecraft:glowstone_dust",
+    "minecraft:gold_nugget"
+  ],
+  "result": {
+    "id": "meteoritecraft:star_fragment",
+    "count": 2
+  }
+}

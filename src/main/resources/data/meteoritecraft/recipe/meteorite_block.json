@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": "meteoritecraft:meteor_ingot"
+  },
+  "result": {
+    "id": "meteoritecraft:meteorite_block",
+    "count": 1
+  }
+}

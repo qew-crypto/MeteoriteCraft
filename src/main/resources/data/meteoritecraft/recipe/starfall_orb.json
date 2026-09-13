@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "CSC",
+    "SOS",
+    "CSC"
+  ],
+  "key": {
+    "C": "meteoritecraft:meteor_core",
+    "S": "meteoritecraft:star_fragment",
+    "O": "minecraft:ender_eye"
+  },
+  "result": {
+    "id": "meteoritecraft:starfall_orb",
+    "count": 1
+  }
+}

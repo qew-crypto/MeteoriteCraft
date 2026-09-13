@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "EPE",
+    "POP",
+    "EPE"
+  ],
+  "key": {
+    "E": "minecraft:ender_eye",
+    "P": "minecraft:ender_pearl",
+    "O": "meteoritecraft:oblivion_stick"
+  },
+  "result": {
+    "id": "meteoritecraft:meteor_staff",
+    "count": 1
+  }
+}

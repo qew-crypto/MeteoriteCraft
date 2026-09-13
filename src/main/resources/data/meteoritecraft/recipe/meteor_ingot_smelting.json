@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": "meteoritecraft:meteorite_ore",
+  "result": {
+    "id": "meteoritecraft:meteor_ingot"
+  },
+  "experience": 2.0,
+  "cookingtime": 100
+}

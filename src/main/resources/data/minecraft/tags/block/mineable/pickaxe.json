@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "meteoritecraft:meteorite_block",
+    "meteoritecraft:meteorite_ore",
+    "meteoritecraft:charged_meteorite_block",
+    "meteoritecraft:meteor_beacon"
+  ]
+}

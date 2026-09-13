@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "meteoritecraft",
+  "version": "2.0.0",
+  "name": "MeteoriteCraft",
+  "description": "Метеориты с лутом, боссы, кастомные чары, снаряжение метеорита и команды /meteor.",
+  "authors": [
+    "MeteoriteCraft"
+  ],
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.meteoritecraft.MeteoriteCraft"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "CGC",
+    "GMG",
+    "CGC"
+  ],
+  "key": {
+    "C": "meteoritecraft:meteor_core",
+    "G": "minecraft:glowstone",
+    "M": "meteoritecraft:meteorite_block"
+  },
+  "result": {
+    "id": "meteoritecraft:charged_meteorite_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "NSN",
+    "SBS",
+    "NSN"
+  ],
+  "key": {
+    "N": "minecraft:netherite_block",
+    "S": "minecraft:nether_star",
+    "B": "minecraft:stick"
+  },
+  "result": {
+    "id": "meteoritecraft:oblivion_stick",
+    "count": 1
+  }
+}
